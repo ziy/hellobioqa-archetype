@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.cmu.lti.oaqa.openqa</groupId>
+  <artifactId>hellobioqa-archetype</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20121031021431</lastUpdated>
+  </versioning>
+</metadata>
