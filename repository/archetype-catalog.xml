@@ -9,5 +9,11 @@
       <version>0.0.1-SNAPSHOT</version>
       <description>hellobioqa</description>
     </archetype>
+    <archetype>
+      <groupId>edu.cmu.lti.oaqa.openqa</groupId>
+      <artifactId>hellobioqa-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>hellobioqa</description>
+    </archetype>
   </archetypes>
 </archetype-catalog>
